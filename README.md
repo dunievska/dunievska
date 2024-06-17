@@ -1,6 +1,6 @@
 # Hi 👋, I'm Emilia Duniewska
 
-### An aspiring Frontend Developer from Wrocław, Poland</h3>
+### Frontend Developer from Wrocław, Poland</h3>
 
 ### Connect with me:
 
